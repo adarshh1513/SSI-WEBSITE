@@ -27,7 +27,6 @@
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-
   },
   "eslintConfig": {
     "extends": [
@@ -51,5 +50,4 @@
     "gh-pages": "^6.2.0"
   },
   "homepage": "https://adarshh1513.github.io/SSI-Website"
-
 }
