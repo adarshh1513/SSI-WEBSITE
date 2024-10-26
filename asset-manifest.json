@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/SSI-Website/static/css/main.27e07143.css",
+    "main.js": "/SSI-Website/static/js/main.24243b3c.js",
+    "static/media/home-banner-image.png": "/SSI-Website/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/NML.PNG": "/SSI-Website/static/media/NML.3ddca97fcdea9c076529.PNG",
+    "static/media/office3.jpg": "/SSI-Website/static/media/office3.6c478a652b0395355b5f.jpg",
+    "static/media/newoffice1.jpg": "/SSI-Website/static/media/newoffice1.8593de5c11b47ed0e69a.jpg",
+    "static/media/TIMKEN.PNG": "/SSI-Website/static/media/TIMKEN.dc3ff837bef7fb34416a.PNG",
+    "static/media/about-background-removebg-preview.png": "/SSI-Website/static/media/about-background-removebg-preview.98c0c6b4063255ba0ad9.png",
+    "static/media/Strength2.PNG": "/SSI-Website/static/media/Strength2.6e3795c8d3cacd981c7d.PNG",
+    "static/media/Mission2.PNG": "/SSI-Website/static/media/Mission2.6139a3b62e8bf51a3ca6.PNG",
+    "static/media/home-banner-background.png": "/SSI-Website/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/TATA.PNG": "/SSI-Website/static/media/TATA.ec3e17df06e42e31fc27.PNG",
+    "static/media/Staff2.PNG": "/SSI-Website/static/media/Staff2.52e7fbfbfa68eac26994.PNG",
+    "static/media/Vision3.PNG": "/SSI-Website/static/media/Vision3.8baa82673771ab507680.PNG",
+    "static/media/CUMMINS.PNG": "/SSI-Website/static/media/CUMMINS.1216c956b7d4e58e54db.PNG",
+    "static/media/Values2.PNG": "/SSI-Website/static/media/Values2.f013b323ad85db1734ae.PNG",
+    "static/media/slick.svg": "/SSI-Website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/SSI-Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/SSI-Website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/SSI-Website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/SSI-Website/index.html",
+    "main.27e07143.css.map": "/SSI-Website/static/css/main.27e07143.css.map",
+    "main.24243b3c.js.map": "/SSI-Website/static/js/main.24243b3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27e07143.css",
+    "static/js/main.24243b3c.js"
+  ]
+}
